@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Victor 🖐️
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/mail:victorborro24@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorborro24@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorborro24)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorborro24)
+
 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorborro24&show_icons=true&theme=radical&locale=pt-br)
